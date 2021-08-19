@@ -1,5 +1,5 @@
 # This is CPython Class Creation Flowchart v1.1
-[***Click here for flowchart!***](https://docs.google.com/presentation/d/16c3ErFZ8a5YHwF_ERErGQ23jyWgsj6s8v1Z1HD3iewg/)
+[***Click here for flowchart!***](https://docs.google.com/presentation/d/16c3ErFZ8a5YHwF_ERErGQ23jyWgsj6s8v1Z1HD3iewg/) (zoom to 50% for optimal viewing)
 
 ## (Re)Sources
 Below is a list of sources from where I compiled this flowchart, and should be good resources for you to understand it as well.
