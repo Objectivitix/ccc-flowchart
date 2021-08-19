@@ -1,4 +1,4 @@
-# CPython Class Creation Flowchart
+# This is CPython Class Creation Flowchart v1.1
 [***Click here for flowchart!***](https://docs.google.com/presentation/d/16c3ErFZ8a5YHwF_ERErGQ23jyWgsj6s8v1Z1HD3iewg/)
 
 ## (Re)Sources
@@ -21,7 +21,7 @@ Thus, I've also ran numerous tests to clarify vague parts in the documentation, 
 ## Your contribution is important!
 If you've found a flaw in the flowchart, or think there might be something to add, please don't hesitate to open up an issue! I'm open to any contribution and constructive criticism on this project, as I'd really like this graph to become a good resource for fellow Pythonistas.
 
-## To-do: what to expect in version v1.1
+## To-do: what to expect in version v1.2
 *This section will be updated as the project progresses.*
 
-Tomorrow, I'll work on version 1.1, adding a legend and better indicators of the graph's logic. Conditions would be outlined in a different color (I'm not using the diamond thingies because they don't fit text well), loops and the breaking out of loops would have different stuff as well, etc.
+TBD
